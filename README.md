@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Subhadip%20Maity&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20WordPress%20Architect%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Subhadip%20Maity&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Senior%20WordPress%20Architect%20%7C%20Full-Stack%20Developer&descSize=19&descAlignY=62&descAlign=50&descColor=36BCF7" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=650&lines=Senior+WordPress+Architect+%F0%9F%8F%97%EF%B8%8F;WooCommerce+%26+PHP+Expert+%F0%9F%92%BB;Node.js+%26+MongoDB+Developer+%F0%9F%9A%80;Automation+%26+CRM+Specialist+%F0%9F%A4%96;9%2B+Years+of+Building+the+Web+%F0%9F%8C%90;50%2B+Production+Deployments+%E2%9C%85)](https://github.com/subhadip-dev94)
 
@@ -109,7 +109,7 @@ const subhadip = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip-dev94&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=subhadip-dev94&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -178,7 +178,7 @@ const subhadip = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&animation=twinkling" width="100%"/>
 
 **✨ Thanks for visiting! Let's build something amazing together. ✨**
 
