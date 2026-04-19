@@ -29,7 +29,7 @@
 ```javascript
 const subhadip = {
   name        : "Subhadip Maity",
-  title       : "Senior WordPress Architect & Team Lead",
+  title       : "Senior WordPress Developer & Ecommerce Specialist",
   location    : "📍 Kolkata, India",
   experience  : "9+ Years",
   company     : "Evolv109",
