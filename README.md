@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Subhadip%20Maity&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Senior%20WordPress%20Architect%20%7C%20Full-Stack%20Developer&descSize=19&descAlignY=62&descAlign=50&descColor=36BCF7" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=650&lines=Senior+WordPress+Architect+%F0%9F%8F%97%EF%B8%8F;WooCommerce+%26+PHP+Expert+%F0%9F%92%BB;Node.js+%26+MongoDB+Developer+%F0%9F%9A%80;Automation+%26+CRM+Specialist+%F0%9F%A4%96;9%2B+Years+of+Building+the+Web+%F0%9F%8C%90;50%2B+Production+Deployments+%E2%9C%85)](https://github.com/subhadip-dev94)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=650&lines=Senior+WordPress+Developer+%F0%9F%8F%97%EF%B8%8F;WooCommerce+%26+PHP+Expert+%F0%9F%92%BB;Node.js+%26+MongoDB+Developer+%F0%9F%9A%80;Automation+%26+CRM+Specialist+%F0%9F%A4%96;9%2B+Years+of+Building+the+Web+%F0%9F%8C%90;50%2B+Production+Deployments+%E2%9C%85)](https://github.com/subhadip-dev94)
 
 <br/>
 
@@ -42,7 +42,7 @@ const subhadip = {
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🏗️ **Team Lead** at **Evolv109** — leading 6 devs delivering WP solutions for US, UK & AU clients
+- 🏗️ **Team Lead** at **Evolv109** — leading delivering WP solutions and build websites for US, UK & AU clients
 - ⚡ Specialized in **high-converting eCommerce** platforms with optimized checkout systems
 - 🤖 Building **AI chatbots**, **voice AI agents**, and **n8n workflow automations**
 - 🛠️ Architected **custom plugins** — webinar tools, booking calendars, PDF generators & more
@@ -110,16 +110,6 @@ const subhadip = {
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=subhadip-dev94&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subhadip-dev94&theme=tokyonight&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies"/>
 
 </div>
 
